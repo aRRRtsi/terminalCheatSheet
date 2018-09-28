@@ -32,4 +32,6 @@
 |cp [filename.end] [directory]|Copy file to directory|
 |mv [filename.end] [new filename.end]|Move/Rename|
 |cat|Show file content|
+|less [filename.end]|Preview file - q ends |
 |nano|Edit file in Terminal Nano editor|
+|man [command]|Command manuals|
