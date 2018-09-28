@@ -1,4 +1,4 @@
-# terminalCheatSheet
+# CMD Cheat sheet
 
 |Command|Description|
 | --- | --- |
